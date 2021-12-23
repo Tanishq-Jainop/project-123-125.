@@ -1,0 +1,20 @@
+body{
+    background-color: cornflowerblue;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkred;
+}
+.note{
+    font-size: 15px ;
+    color:gold;
+}
+canvas{
+    border: 1px ridge cornflowerblue;
+    background-color: cornsilk;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gold;
+
+}
